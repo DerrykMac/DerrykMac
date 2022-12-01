@@ -4,15 +4,17 @@ C#
 
 Python
 
+C++
+
+C
+
 Ti Basic
 
 Javascript
 
 Java
 
-C++
-
-Dart
+FORTRAN
 
 ## Things I've done
 
@@ -26,4 +28,4 @@ Made a custom file format
 
 made around 6 games with unity
 
-attempted to make a game with python
+Made a raytracer with python
