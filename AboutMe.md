@@ -1,12 +1,12 @@
 ## Languages I know (from best to worst)
 
-C#
-
-Python
-
 C
 
 C++
+
+Python
+
+C#
 
 Ti Basic
 
