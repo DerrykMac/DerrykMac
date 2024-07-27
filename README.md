@@ -10,8 +10,9 @@
 
 ## Things I've Done
 - Made several render engines using OpenGL, OpenTK, Native C++ and Pygame
+- A Macro to Wipe non important files from a computer and fix the wallpaper for a school
 - Made a custom file format for saving non-object data types
-- Developed several Indi games (non fully released)
+- Developed several Indie games (non fully released)
 - Made a Doom-style raytracer with python
 - Worked on various websites and apps
 - Made an AI chatbot
@@ -25,4 +26,4 @@
 
 ### Things I plan to learn
 ------------
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="5%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="5%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="5%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="5%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="5%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="5%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="5%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="5%">
