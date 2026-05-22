@@ -16,8 +16,6 @@
 - Made a Doom-style raytracer with python
 - Worked on various websites and apps
 - Made an AI chatbot
-- Broke my NDA telling you that I made an AI chatbot :)
-- Got away with breaking my NDA (the NDA is over now)
 
 ## What I'm working on
 - Working on an In House game engine for my company
